@@ -1,17 +1,15 @@
-#skip a {
-  position: absolute;
-  width: 100%;
-  top: -30px;
-  left: 0;
-  background: #000;
-  height: 30px;
-  line-height: 30px;
-  color: #fff;
-  font-size: 16px;
-  padding: 0 6px;
-  text-align: center;
-}
-#skip a:focus,
-#skip a:active {
-  top: 0;
-}
+@charset "UTF-8";
+
+/* setting */
+@import 'fonts';
+@import 'variables';
+@import 'reset';
+
+/* section */
+/* @import 'header';
+@import 'intro';
+@import 'skill';
+@import 'site';
+@import 'port';
+@import 'contact';
+@import 'footer'; */
